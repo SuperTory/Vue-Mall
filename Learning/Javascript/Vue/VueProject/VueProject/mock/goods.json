@@ -1,0 +1,36 @@
+{
+	"status":0,
+	"msg":"",
+	"result":[
+		{
+			"productId":"1001",
+			"productName":"音响",
+			"productPrice":"199",
+			"productImg":"1.jpg"
+		},
+		{
+			"productId":"1002",
+			"productName":"蓝牙耳机",
+			"productPrice":"99",
+			"productImg":"2.jpg"
+		},
+		{
+			"productId":"1003",
+			"productName":"LetMe头戴耳机",
+			"productPrice":"288",
+			"productImg":"3.jpg"
+		},
+		{
+			"productId":"1004",
+			"productName":"充电宝",
+			"productPrice":"56",
+			"productImg":"5.jpg"
+		},
+		{
+			"productId":"1005",
+			"productName":"智能插座",
+			"productPrice":"66",
+			"productImg":"6.jpg"
+		}
+	]
+}
